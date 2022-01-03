@@ -1,6 +1,6 @@
 # Danilov Dmitry
 
-[danilov.jpg](https://postimg.cc/Wqhw1mYL)
+[![danilov.jpg](https://i.postimg.cc/0jCWZcpQ/danilov.jpg)](https://postimg.cc/Wqhw1mYL)
 
 ### Telegram: @danilovdm
 

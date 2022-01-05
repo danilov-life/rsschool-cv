@@ -5,3 +5,13 @@
 ### Telegram: @danilovdm
 
 ### This year I seriously decided to change my profession and maybe the future and opportunities of my family. For many years I have been doing a difficult job in our country - entrepreneurship. Now this is not the future or development. I want more and want to receive knowledge that will always be with me. I am diligent (my wife says so)) and responsible.
+
+### Web-development: HTML5 CSS3
+
+```function multiply(a, b){
+                a * b
+```
+
+### RS-School Stage 0
+
+### English: A1 - Beginner
